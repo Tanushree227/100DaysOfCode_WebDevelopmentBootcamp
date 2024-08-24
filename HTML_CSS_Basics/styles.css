@@ -1,0 +1,29 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: teal;
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: teal;
+}
+a:visited
+{
+    color: blue;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px 10px grey;
+}
